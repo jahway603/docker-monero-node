@@ -39,6 +39,7 @@ monerod \
     --rpc-restricted-bind-port=18081 \
     --zmq-rpc-bind-ip=0.0.0.0 \
     --zmq-rpc-bind-port=18082 \
+    --confirm-zmq-rpc-external-bind \
     --rpc-bind-ip=0.0.0.0 \
     --rpc-bind-port=18083 \
     --non-interactive \
